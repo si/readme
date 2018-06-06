@@ -17,6 +17,7 @@ In the true nature of transparency and sharing, I’ve open-sourced this in Git 
 * My official title is “Agile Delivery Manager”, which roughly equates to
 `(isScrummaster || isFlowmaster || isAgileCoach) && isLineManager`
 * I started ASOS as a UI Engineer back in 2013 when there were just a handful of us. I tend to understand mostly what’s going on with the applications but my coding skills are dwindling (see above).
+* I've been around having worked previously on Content Platform, Checkout & Optimisation Testing (aka MVT) so I know quite a few people. Feel free to ask me for guidance.
 * I’m normally called a “Northerner” or “Brummie” as I travel from beyond Watford and originate from the Birmingham office. I am neither.
 * I’m an early bird and tend to be in the office around 8.15am. Late afternoon meetings are not ideal as I want to get home to my family.
 * I’m a little bit OCD (it’s hereditary). I’m quick to highlight typos and grammar - don’t hate me, just embrace it. I also like to have accurate data - make sure our project trackers and calendars are up-to-date!
