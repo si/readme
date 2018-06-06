@@ -24,6 +24,15 @@ In the true nature of transparency and sharing, I’ve open-sourced this in Git 
 * I’m often seen as the “good cop”. I tend to focus on people’s strengths or try to understand their weaknesses. Please don’t abuse this.
 * I have a history of being the social committee, often organising group and community events to create platforms for speaking. I will probably encourage you to take part.
 
+## Core Responsibilities
+
+As an ADM, I have a specific role to play at ASOS which I believe combines the following:
+
+* Facilitation of team delivery including the relief of any blockers
+* Coaching team and direct reports to be better
+* Encourage open and diplomatic communication internally and externally
+* Communicate with key stakeholders about _anything_ that is relevant, warts and all.
+
 ## Principles and Values
 
 1. **Collaboration is key**
@@ -36,15 +45,6 @@ Endeavour to deliver sooner rather than gold-plate your solution. The faster you
 As much as I love to adhere to a process, I’m always open to suggestions for improvement. Same goes for documentation. I rarely print anything out (why waste a tree?) so it’s completely plausible to make changes. In fact, if there are any living documents, make sure they’re reviewed on a regular basis to ensure accuracy. Hitting the delete button is OK.
 5. **Be constructive with your feedback**
 Whilst we all love a bit of positive affirmation, it’s also human nature to focus on the negatives. If doing this, try to be constructive and offer a suggestion or open the discussion to coach out some options with clear actions.
-
-## Core Responsibilities
-
-As an ADM, I have a specific role to play at ASOS which I believe combines the following:
-
-* Facilitation of team delivery including the relief of any blockers
-* Coaching team and direct reports to be better
-* Encourage open and diplomatic communication internally and externally
-* Communicate with key stakeholders about _anything_ that is relevant, warts and all.
 
 ## 121’s
 
