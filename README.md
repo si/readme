@@ -2,6 +2,7 @@
 [jump links]
 
 ## WTF?
+
 This README is intended to explain who I am, what I do and what you can expect from me at ASOS.
 
 It includes a brief overview of my profile, responsibilities, my principles and values, 121’s and anything else I deem necessary to share. (Side note: I do tend to suffer from TMI at times).
@@ -11,6 +12,7 @@ The expected audience are new starters but not exclusively - it can be referred 
 In the true nature of transparency and sharing, I’ve open-sourced this in Git with some geeky Markdown. This way all the change history is available along the ability for shared modifications. Plus I get to stretch my tech skills beyond another document. You might also notice I like lists.
 
 ## About Me
+
 * I’m Si Jobling (aka _SimonJ_ on internal comms) and I work in the Web Platform, mostly focused on My Account.
 * My official title is “Agile Delivery Manager”, which roughly equates to
 `(isScrummaster || isFlowmaster || isAgileCoach) && isLineManager`
@@ -23,6 +25,7 @@ In the true nature of transparency and sharing, I’ve open-sourced this in Git 
 * I have a history of being the social committee, often organising group and community events to create platforms for speaking. I will probably encourage you to take part.
 
 ## Principles and Values
+
 1. **Collaboration is key**
 Despite the silos we all work in, I always encourage people to work across teams and platforms. I’m not a hero-worshipper (even though I will recognise and appreciate the occasional moment of individual effort). 
 2. **Face to face > Comms**
@@ -35,6 +38,7 @@ As much as I love to adhere to a process, I’m always open to suggestions for i
 Whilst we all love a bit of positive affirmation, it’s also human nature to focus on the negatives. If doing this, try to be constructive and offer a suggestion or open the discussion to coach out some options with clear actions.
 
 ## Core Responsibilities
+
 As an ADM, I have a specific role to play at ASOS which I believe combines the following:
 
 * Facilitation of team delivery including the relief of any blockers
@@ -43,6 +47,7 @@ As an ADM, I have a specific role to play at ASOS which I believe combines the f
 * Communicate with key stakeholders about _anything_ that is relevant, warts and all.
 
 ## 121’s
+
 This is your chance to talk to me about _anything_ you want to highlight. Please don’t be shy - apparently I’m a good listener (I’m a Cancerian if you’re into that horoscope mumbo jumbo). Everything you tell me is confidential unless we agree otherwise so it’s a safe environment for us to talk.
 
 I like to focus on your personal development and wellbeing. We will often refer to your objectives. Make sure you’re familiar with yours and regularly reflecting. 
@@ -52,6 +57,7 @@ Occasionally, we’ll “talk shop” such as projects, teams and deliveries. Th
 Be prepared for our chats. Make a note of things you want to bring to the table. However, if it’s urgent, don’t wait; just ask me for a quick chat (a Slack message is an easy prompt) and I’ll find 10-15 minutes for you.
 
 ## Feedback
+
 As mentioned previously, I’m a fan of constructive feedback. If I’m doing something you’re not happy with or think I could improve on, tell me. Face to face might be difficult for some situations so send me a message but I’d obviously prefer a chat if possible.
 
 With this open transparent readme, feel free to raise a pull-request or add a comment to understand it further. Even challenge it - if it’s not clear or contentious, I’d like to address it.
