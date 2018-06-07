@@ -1,5 +1,12 @@
 # asos-simonj/readme
-[jump links]
+
+1. [TL;DR](#tldr)
+2. [WTF?](#wtf)
+3. [About Me](#about-me)
+4. [Core Responsibilities](#core-responsibilities)
+5. [Principles and Values](#principles-and-values)
+6. [121’s](#121s)
+7. [Feedback](#feedback)
 
 ## TL;DR
 
