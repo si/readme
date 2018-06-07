@@ -43,7 +43,7 @@ Don’t rely on emails, instant messaging or any other digital form of communica
 3. **JFDI** or **GSD**
 Endeavour to deliver sooner rather than gold-plate your solution. The faster you get something live, the quicker you can iterate. That doesn’t mean to ship bugs though; follow the rule books to make sure you have covered all the known scenarios and work with others to ensure your confident (see above).
 4. **Nothing is set in stone**
-As much as I love to adhere to a process, I’m always open to suggestions for improvement. Same goes for documentation. I rarely print anything out (why waste a tree?) so it’s completely plausible to make changes. In fact, if there are any living documents, make sure they’re reviewed on a regular basis to ensure accuracy. Hitting the delete button is OK.
+As much as I love a process, I’m always open to suggestions for improvement. Same goes for documentation. I rarely print anything out (why waste a tree?) so it’s completely plausible to make changes. In fact, if there are any living documents, make sure they’re reviewed on a regular basis to ensure accuracy. Hitting the delete button is OK.
 5. **Be constructive with your feedback**
 Whilst we all love a bit of positive affirmation, it’s also human nature to focus on the negatives. If doing this, try to be constructive and offer a suggestion or open the discussion to coach out some options with clear actions.
 
