@@ -4,6 +4,7 @@
 ## TL;DR
 
 ![My face](https://avatars2.githubusercontent.com/u/26605415?s=460&v=4)
+
 I'm Si. This is my readme. It tries to summarise my role at ASOS and what it might mean to you.
 
 ## WTF?
