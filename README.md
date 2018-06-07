@@ -15,7 +15,7 @@ It includes a brief overview of my profile, responsibilities, my principles and 
 
 The expected audience are new starters but not exclusively - it can be referred to by direct reports, peers and seniors to hold me accountable. 
 
-In the true nature of transparency and sharing, I’ve open-sourced this in Git with some geeky Markdown. This way all the change history is available along the ability for shared modifications. Plus I get to stretch my tech skills beyond another document. You might also notice I like lists.
+In the true nature of transparency and sharing, I’ve open-sourced this in Git with some geeky Markdown. This way all the change history is available along with the ability for shared modifications. Plus I get to stretch my tech skills beyond Yet-Another-Office-Doc. You might also notice I like lists.
 
 ## About Me
 
