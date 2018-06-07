@@ -1,6 +1,11 @@
 # asos-simonj/readme
 [jump links]
 
+## TL;DR
+
+![My face](https://avatars2.githubusercontent.com/u/26605415?s=460&v=4)
+I'm Si. This is my readme. It tries to summarise my role at ASOS and what it might mean to you.
+
 ## WTF?
 
 This README is intended to explain who I am, what I do and what you can expect from me at ASOS.
