@@ -54,7 +54,7 @@ Despite the silos we all work in, I always encourage people to work across teams
 2. **Face to face > Comms**
 Don’t rely on emails, instant messaging or any other digital form of communication to get an answer; get off your chair and find people to speak to them directly. It always yields a more useful and quicker response which can be followed up by some form of confirmation.
 3. **JFDI** or **GSD**
-Endeavour to deliver sooner rather than gold-plate your solution. The faster you get something live, the quicker you can iterate. That doesn’t mean to ship bugs though; follow the rule books to make sure you have covered all the known scenarios and work with others to ensure your confident (see above).
+Endeavour to deliver sooner rather than gold-plate your solution. The faster you get something live, the quicker you can iterate. That doesn’t mean to ship bugs though; follow the rule books to make sure you have covered all the known scenarios and work with others to ensure you're confident (see above).
 4. **Nothing is set in stone**
 As much as I love a process, I’m always open to suggestions for improvement. Same goes for documentation. I rarely print anything out (why waste a tree?) so it’s completely plausible to make changes. In fact, if there are any living documents, make sure they’re reviewed on a regular basis to ensure accuracy. Hitting the delete button is OK.
 5. **Be constructive with your feedback**
