@@ -12,31 +12,31 @@
 
 ![My face](https://avatars2.githubusercontent.com/u/26605415?s=460&v=4 "This is my face")
 
-I'm Si. This is my readme. It tries to summarise my role at ASOS and what it might mean to you.
+I'm [Si Jobling](https://sijobling.com). This is my readme. It tries to summarise my role as a team leader and what it might mean to you.
 
 ## 😵 WTF?
 
 This README is intended to explain who I am, what I do and what you can expect from me at ASOS.
 
-It includes a brief overview of my profile, responsibilities, my principles and values, 121’s and anything else I deem necessary to share. (Side note: I do tend to suffer from TMI at times).
+It includes a brief overview of my profile, responsibilities, my principles and values, 121’s and anything else I deem necessary to share. (_Warning_: I do tend to suffer from TMI at times).
 
-The expected audience are new starters but not exclusively - it can be referred to by direct reports, peers and seniors to hold me accountable. 
+The expected audience are people I've recently met but not exclusively - it can be referred to by direct reports, peers and seniors to hold me accountable. 
 
-In the true nature of transparency and sharing, I’ve open-sourced this in Git with some geeky Markdown. This way all the change history is available along with the ability for shared modifications. Plus I get to stretch my tech skills beyond Yet-Another-Office-Doc. You might also notice I like lists.
+In the true nature of transparency and sharing, I’ve open-sourced this in [Github](https://github.com/si/readme) with some geeky Markdown. This way all the change history is available along with the ability for shared modifications. Plus I get to stretch my tech skills beyond Yet-Another-Office-Doc. You might also notice I like lists.
 
 ## 🗣️ About Me
 
-* I’m Si Jobling (aka _SimonJ_ on internal comms) and I work in the Web Platform, mostly focused on My Account.
+* I’m Si Jobling (aka _Si_ wherever possible) and I work on the Saved Items tech platform.
 * My official title is “Agile Delivery Manager”, which roughly equates to
 `(isScrummaster || isFlowmaster || isAgileCoach) && isLineManager`
-* I started ASOS as a UI Engineer back in 2013 when there were just a handful of us. I tend to understand mostly what’s going on with the applications but my coding skills are dwindling (see above).
-* I've been around having worked previously on Content Platform, Checkout & Optimisation Testing (aka MVT) so I know quite a few people. Feel free to ask me for guidance.
+* I started ASOS as a UI Engineer back in 2013 when there were just a handful of us. I tend to understand mostly what’s going on with all the applications but my coding skills are dwindling (see above).
+* I've been "around" having worked previously on Content Platform, Checkout & Optimisation Testing (aka MVT) so I know quite a few people. Feel free to ask me for guidance.
 * I’m normally called a “Northerner” or “Brummie” as I travel from beyond Watford and originate from the Birmingham office. I am neither.
 * I’m an early bird and tend to be in the office around 8.15am. Late afternoon meetings are not ideal as I want to get home to my family.
 * I’m a little bit OCD (it’s hereditary). I’m quick to highlight typos and grammar - don’t hate me, just embrace it. I also like to have accurate data - make sure our project trackers and calendars are up-to-date!
-* Similarly, I hate unread counters. I try to find zen with _Inbox Zero_ and always read Slack messages. If I’ve missed your comms, you have the right to poke me with a reminder.
-* I’m often seen as the “good cop”. I tend to focus on people’s strengths or try to understand their weaknesses. Please don’t abuse this.
-* I have a history of being the social committee, often organising group and community events to create platforms for speaking. I will probably encourage you to take part.
+* Similarly, I hate unread counters. I try to find zen with _Inbox Zero_ and always read Slack messages with the power of `Cmd+K`. If I’ve missed your comms, you have the right to poke me with a reminder.
+* I’m often seen as the “good cop”. I tend to focus on people’s strengths or try to understand their areas of improvement. Please don’t abuse this.
+* I have a history of being the social committee, often organising group and community events to create opportunities for speaking and sharing. I will probably encourage you to take part.
 
 ## 💼 Core Responsibilities
 
@@ -53,7 +53,7 @@ As an ADM, I have a specific role to play at ASOS which I believe combines the f
 Despite the silos we all work in, I always encourage people to work across teams and platforms. I’m not a hero-worshipper (even though I will recognise and appreciate the occasional moment of individual effort). 
 2. **Face to face > Comms**
 Don’t rely on emails, instant messaging or any other digital form of communication to get an answer; get off your chair and find people to speak to them directly. It always yields a more useful and quicker response which can be followed up by some form of confirmation.
-3. **JFDI** or **GSD**
+3. **JFDI** / **GSD**
 Endeavour to deliver sooner rather than gold-plate your solution. The faster you get something live, the quicker you can iterate. That doesn’t mean to ship bugs though; follow the rule books to make sure you have covered all the known scenarios and work with others to ensure you're confident (see above).
 4. **Nothing is set in stone**
 As much as I love a process, I’m always open to suggestions for improvement. Same goes for documentation. I rarely print anything out (why waste a tree?) so it’s completely plausible to make changes. In fact, if there are any living documents, make sure they’re reviewed on a regular basis to ensure accuracy. Hitting the delete button is OK.
