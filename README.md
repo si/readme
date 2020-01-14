@@ -16,7 +16,7 @@ I'm [Si Jobling](https://sijobling.com). This is my readme. It tries to summaris
 
 ## 😵 WTF?
 
-This README is intended to explain who I am, what I do and what you can expect from me at ASOS.
+This README is intended to explain who I am, what I do and what you can expect from me as a team lead in tech.
 
 It includes a brief overview of my profile, responsibilities, my principles and values, 121’s and anything else I deem necessary to share. (_Warning_: I do tend to suffer from TMI at times).
 
@@ -26,7 +26,7 @@ In the true nature of transparency and sharing, I’ve open-sourced this in [Git
 
 ## 🗣️ About Me
 
-* I’m Si Jobling (aka _Si_ wherever possible) and I work on the Saved Items tech platform.
+* I’m Si Jobling (aka _Si_ wherever possible) and I work on the Saved Items API platform at ASOS.
 * My official title is “Agile Delivery Manager”, which roughly equates to
 `(isScrummaster || isFlowmaster || isAgileCoach) && isLineManager`
 * I started ASOS as a UI Engineer back in 2013 when there were just a handful of us. I tend to understand mostly what’s going on with all the applications but my coding skills are dwindling (see above).
