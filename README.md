@@ -31,6 +31,7 @@ In the true nature of transparency and sharing, I’ve open-sourced this in [Git
 `(isLineManager && isAgileCoach && isCommunityEnthusiast) && !isDeliveryManager`
 * I started ASOS as a UI Engineer back in 2013 when there were just a handful of us. I tend to understand mostly what’s going on with all the applications but my coding skills are dwindling (see above example).
 * I've been "around" having worked previously on Content Platform, Checkout, Optimisation Testing (aka MVT), Web & Apps and Saved Items so I know quite a few people. Feel free to ask me for guidance.
+* I spent about 1 year at WorldFirst (part of Alibaba's Ant Group) as Delivery Lead. This role allowed me to explore alternative ways of working across different cultures and discover how project management can be done in non-Agile ways. It wasn't for me but I learned so much in the process.
 * I’m normally called a “Northerner” or “Brummie” as I travel from above the M25 and originate from the Birmingham office. I am neither (yet now based back in the Birmingham office)
 * I’m an early bird and tend to start work around 8.15am. I try to drop my daughter at our local primary and get hungry before 1pm. Late afternoon meetings are not ideal as I like to wrap up about 5pm.
 * I’m a little bit OCD (it’s hereditary). I’m quick to highlight typos and grammar - don’t hate me, just embrace it. I also like to have accurate data - make sure our project trackers and calendars are up-to-date!
