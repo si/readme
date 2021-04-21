@@ -63,16 +63,16 @@ Whilst we all love a bit of positive affirmation, it’s also human nature to fo
 
 ## 👥 121’s
 
-This is your chance to talk to me about _anything_ you want to highlight. Please don’t be shy - apparently I’m a good listener (I’m a Cancerian if you’re into that horoscope mumbo jumbo). Everything you tell me is confidential unless we agree otherwise so it’s a safe environment for us to talk.
+This is your chance to talk to me about _anything_ you want to highlight. Please don’t be shy - apparently I’m a good listener (I’m a Cancerian if you’re into that astrology stuff). Everything you tell me is confidential unless we agree otherwise so it’s a safe environment for us to talk.
 
 I like to focus on your personal development and wellbeing. We will often refer to your objectives. Make sure you’re familiar with yours and regularly reflecting. 
 
 Occasionally, we’ll “talk shop” such as projects, teams and deliveries. This will only be short though and an opportunity for me to encourage you to push yourself.
 
-Be prepared for our chats. Make a note of things you want to bring to the table. However, if it’s urgent, don’t wait; just ask me for a quick chat (a Slack message is an easy prompt) and I’ll find 10-15 minutes for you.
+Be prepared for our chats. Make a note of things you want to bring to the table. However, if it’s urgent, don’t wait; just ask me for a quick chat (a quick message is an easy prompt) and I’ll find 15 minutes for us.
 
 ## 💬 Feedback
 
-As mentioned previously, I’m a fan of constructive feedback. If I’m doing something you’re not happy with or think I could improve on, tell me. Face to face might be difficult for some situations so send me a message but I’d obviously prefer a chat if possible.
+As mentioned previously, I’m a fan of constructive feedback. If I’m doing something you’re not happy with or think I could improve on, please tell me. Face to face might be difficult for some situations so send me a message but I’d obviously prefer a chat if possible. If you're uncomfortable telling me directly, you can always touch base with my  line manager or peers who can relay confidentially.
 
 With this open transparent readme, feel free to raise a pull-request or add a comment to understand it further. Even challenge it - if it’s not clear or contentious, I’d like to address it.
