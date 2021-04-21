@@ -71,6 +71,8 @@ Occasionally, we’ll “talk shop” such as projects, teams and deliveries. Th
 
 Be prepared for our chats. Make a note of things you want to bring to the table. However, if it’s urgent, don’t wait; just ask me for a quick chat (a quick message is an easy prompt) and I’ll find 15 minutes for us.
 
+I can arrange these for us in our calendars – typically 25 minutes every 2 weeks, weekly if you're new or require more frequent checkpoints – but don't feel tied to the times booked. Propose better times to fit around your needs (message me if struggling as I will fill gaps with "focus time" I can move around).
+
 ## 💬 Feedback
 
 As mentioned previously, I’m a fan of constructive feedback. If I’m doing something you’re not happy with or think I could improve on, please tell me. Face to face might be difficult for some situations so send me a message but I’d obviously prefer a chat if possible. If you're uncomfortable telling me directly, you can always touch base with my  line manager or peers who can relay confidentially.
