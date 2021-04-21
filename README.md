@@ -29,12 +29,12 @@ In the true nature of transparency and sharing, I’ve open-sourced this in [Git
 * I’m Si Jobling (aka _Si_ wherever possible) and I work in the Orders, Delivery & Returns + Stock & Fulfillment (FORDS) platform at ASOS.
 * My official title is **Engineering Manager**, which roughly equates to
 `(isLineManager && isAgileCoach && isCommunityEnthusiast) && !isDeliveryManager`
-* I started ASOS as a UI Engineer back in 2013 when there were just a handful of us. I tend to understand mostly what’s going on with all the applications but my coding skills are dwindling (see above).
-* I've been "around" having worked previously on Content Platform, Checkout & Optimisation Testing (aka MVT) so I know quite a few people. Feel free to ask me for guidance.
-* I’m normally called a “Northerner” or “Brummie” as I travel from beyond Watford and originate from the Birmingham office. I am neither.
-* I’m an early bird and tend to be in the office around 8.15am. Late afternoon meetings are not ideal as I want to get home to my family.
+* I started ASOS as a UI Engineer back in 2013 when there were just a handful of us. I tend to understand mostly what’s going on with all the applications but my coding skills are dwindling (see above example).
+* I've been "around" having worked previously on Content Platform, Checkout, Optimisation Testing (aka MVT), Web & Apps and Saved Items so I know quite a few people. Feel free to ask me for guidance.
+* I’m normally called a “Northerner” or “Brummie” as I travel from above the M25 and originate from the Birmingham office. I am neither (yet now based back in the Birmingham office)
+* I’m an early bird and tend to start work around 8.15am. I try to drop my daughter at our local primary and get hungry before 1pm. Late afternoon meetings are not ideal as I like to wrap up about 5pm.
 * I’m a little bit OCD (it’s hereditary). I’m quick to highlight typos and grammar - don’t hate me, just embrace it. I also like to have accurate data - make sure our project trackers and calendars are up-to-date!
-* Similarly, I hate unread counters. I try to find zen with _Inbox Zero_ and always read Slack messages with the power of `Cmd+K`. If I’ve missed your comms, you have the right to poke me with a reminder.
+* Similarly, I hate unread counters. I try to find zen with _Inbox Zero_ and always read team channel messages. If I’ve missed your comms, you have the right to poke me with a reminder.
 * I’m often seen as the “good cop”. I tend to focus on people’s strengths or try to understand their areas of improvement. Please don’t abuse this.
 * I have a history of being the social committee, often organising group and community events to create opportunities for speaking and sharing. I will probably encourage you to take part.
 
