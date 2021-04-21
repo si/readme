@@ -1,8 +1,8 @@
 # si/readme
 
-1. [TL;DR](#-tldr)
+1. [TL;DR](#%EF%B8%8F-tldr)
 2. [WTF?](#-wtf)
-3. [About Me](#-about-me)
+3. [About Me](#%EF%B8%8F-about-me)
 4. [Core Responsibilities](#-core-responsibilities)
 5. [Principles and Values](#-principles-and-values)
 6. [121’s](#-121s)
