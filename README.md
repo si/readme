@@ -49,16 +49,26 @@ As an Engineering Manager, I have a specific role to play at ASOS which I believ
 
 ## 🎓 Principles and Values
 
-1. **Collaboration is key** 🤝
+### Collaboration Is Key 🤝
+
 Despite the silos we all work in, I always encourage people to work across teams and platforms. I’m not a hero-worshipper (even though I will recognise and appreciate the occasional moment of individual effort). 
-2. **Face to face > Comms** 🗣
+
+### Face to Face > Comms 🗣
+
 Don’t rely on emails, instant messaging or any other digital form of communication to get an answer; get off your chair and find people to speak to them directly. It always yields a more useful and quicker response which can be followed up by some form of confirmation.
-🦠 _COVID Update:_ Obviously this is nigh impossible during lockdown/remote working but I still encourage video call (camera enabled + screenshare) to have a more productive personable discussion rather than depend on synschronous digtal comms.
-3. **JFDI** / **GSD** 🤬
+
+_COVID Update:_ 🦠  Obviously this is impossible during lockdown/remote working but I still encourage video call (camera enabled + screenshare) to have a more productive personable discussion rather than depend on synschronous digtal comms.
+
+### JFDI / GSD 🤬
+
 Endeavour to deliver sooner rather than gold-plate your solution. The faster you get something live, the quicker you can iterate. That doesn’t mean to ship bugs though; follow the rule books to make sure you have covered all the known scenarios and work with others to ensure you're confident (see above).
-4. **Nothing is set in stone** 🗿
+
+### Nothing Is Set In Stone 🗿
+
 As much as I love a process, I’m always open to suggestions for improvement. Same goes for documentation. I rarely print anything out (why waste a tree?) so it’s completely plausible to make changes. In fact, if there are any living documents, make sure they’re reviewed on a regular basis to ensure accuracy. Hitting the delete button is OK.
-5. **Be constructive with your feedback** 🗯
+
+### Be Constructive With Your Feedback 🗯
+
 Whilst we all love a bit of positive affirmation, it’s also human nature to focus on the negatives. If doing this, try to be constructive and offer a suggestion or open the discussion to coach out some options with clear actions.
 
 ## 👥 121’s
