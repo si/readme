@@ -26,7 +26,7 @@ In the true nature of transparency and sharing, I’ve open-sourced this in [Git
 
 ## 🗣️ About Me
 
-* I’m Si Jobling (aka _Si_ wherever possible) and I work in the Orders, Delivery & Returns + Stock & Fulfillment (FORDS) platform at ASOS.
+* I’m Si Jobling (aka _Si_ wherever possible) and I work in the Orders, Delivery & Returns + Stock & Fulfillment (FORDS) platform at @ASOS.
 * My official title is **Engineering Manager**, which roughly equates to
 `(isLineManager && isAgileCoach && isCommunityEnthusiast) && !isDeliveryManager`
 * I started ASOS as a UI Engineer back in 2013 when there were just a handful of us. I tend to understand mostly what’s going on with all the applications but my coding skills are dwindling (see above example).
