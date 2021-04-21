@@ -12,7 +12,7 @@
 
 ![My face](https://avatars2.githubusercontent.com/u/26605415?s=460&v=4 "This is my face")
 
-I'm [Si Jobling](https://sijobling.com). This is my readme. It tries to summarise my role as a team leader and what it might mean to you.
+I'm [Si Jobling](https://sijobling.com). This is my readme. It tries to summarise my role as an Engineering Manager and what it might mean to you.
 
 ## 😵 WTF?
 
@@ -26,9 +26,9 @@ In the true nature of transparency and sharing, I’ve open-sourced this in [Git
 
 ## 🗣️ About Me
 
-* I’m Si Jobling (aka _Si_ wherever possible) and I work on the Saved Items API platform at ASOS.
-* My official title is “Agile Delivery Manager”, which roughly equates to
-`(isScrummaster || isFlowmaster || isAgileCoach) && isLineManager`
+* I’m Si Jobling (aka _Si_ wherever possible) and I work in the Orders, Delivery & Returns + Stock & Fulfillment (FORDS) platform at ASOS.
+* My official title is **Engineering Manager**, which roughly equates to
+`(isLineManager && isAgileCoach && isCommunityEnthusiast) && !isDeliveryManager`
 * I started ASOS as a UI Engineer back in 2013 when there were just a handful of us. I tend to understand mostly what’s going on with all the applications but my coding skills are dwindling (see above).
 * I've been "around" having worked previously on Content Platform, Checkout & Optimisation Testing (aka MVT) so I know quite a few people. Feel free to ask me for guidance.
 * I’m normally called a “Northerner” or “Brummie” as I travel from beyond Watford and originate from the Birmingham office. I am neither.
